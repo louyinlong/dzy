@@ -1,0 +1,14 @@
+.login-content{
+    height:100vh;
+}
+
+form{
+    width: 35rem;
+}
+
+.a{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+}
+
